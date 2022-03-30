@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MERN Boilerplate
 Simple boilerplate for starting your new MERN project
 
@@ -15,6 +14,3 @@ npm install
 npm start
 npm build
 ```
-=======
-# mern-boilerplate
->>>>>>> d11f03559b3295de17af973a63d232d3dc6e6122
