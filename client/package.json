@@ -4,6 +4,7 @@
   "private": "true",
   "scripts": {
     "start": "react-scripts start",
+    "dev": "npm run dev --prefix  ",
     "build": "react-scripts build"
   },
   "dependencies": {

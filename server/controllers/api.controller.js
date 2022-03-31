@@ -1,12 +1,8 @@
 
-const main = (req,res) => {
+exports.main = (req,res) => {
     res.json({
         message: 'Hello World',
-        code: 200
+        code: 200,
+        ok: true
     })
-}
-
-//export controller functions
-module.exports = {
-    main
 }
