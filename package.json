@@ -1,4 +1,6 @@
 {
+    "name": "mern-boilerplate",
+    "version": "1.0.0",
     "scripts": {
         "start": "node server/index.js",
         "build": "npm run build --prefix client",
