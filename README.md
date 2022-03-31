@@ -43,6 +43,7 @@ Will spin up both client & server  on a local devserver
 npm start
 ```
 Will start the express server...Used in production
+## Scripts - Client Folder
 ```npm
 npm build
 ```
