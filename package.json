@@ -3,7 +3,6 @@
     "version": "1.0.0",
     "scripts": {
         "start": "node server/index.js",
-        "build": "npm run build --prefix client",
         "server": "nodemon server/index.js",
         "client": "npm start --prefix client",
         "dev": "concurrently \"npm run server\" \"npm run client\""
