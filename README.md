@@ -51,3 +51,5 @@ Will build the react frontend to a prodution build folder
 
 ## Production
 The express application is configured to serve the frontend from it's build folder when the NODE_ENV is set to "production". So it's important your build your frontend before deploying for production...
+## Live Demo
+[MERN Application](https://nitschedev-mern.herokuapp.com/)
